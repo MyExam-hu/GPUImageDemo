@@ -1,0 +1,19 @@
+//
+//  GPUImageDemo-Prefix.pch
+//  GPUImageDemo
+//
+//  Created by huweidong on 26/10/16.
+//  Copyright © 2016年 huweidong. All rights reserved.
+//
+
+#ifndef GPUImageDemo_Prefix_pch
+#define GPUImageDemo_Prefix_pch
+
+#import "GPUImage.h"
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* GPUImageDemo_Prefix_pch */
+
